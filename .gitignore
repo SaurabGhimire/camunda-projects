@@ -2,7 +2,7 @@
 /c8-develop-workers-java-lab/
 /c8-error-handling-lab/
 /c8-execution-listeners-lab/
-/c8-process-communication-lab/
+c8-process-communication-lab
 /c8-working-zeebe-api-cli-lab/
 /connector-template-inbound/
 /connector-template-outbound/
